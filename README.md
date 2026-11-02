@@ -1,6 +1,9 @@
 # 🤖 AI Virtual Assistant
 
 <p align="center">
+  <img width="1586" height="799" alt="Screenshot 2026-11-02 163103" src="https://github.com/user-attachments/assets/1b4ed149-fdea-46af-8612-78970b9121c4" />
+<img width="1596" height="776" alt="Screenshot 2026-11-02 163250" src="https://github.com/user-attachments/assets/3490bcf7-050b-4754-84a0-d2fa58ae33d0" />
+
   <img src="aifinal.png" alt="AI Virtual Assistant Screenshot" width="850">
 </p>
 
